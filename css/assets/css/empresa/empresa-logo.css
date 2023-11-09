@@ -1,0 +1,7 @@
+.empresa__logo {
+  background-image: url(/css/assets/img/img_portadas/cgame.png);
+  background-repeat: no-repeat;
+  background-position:10px;
+  width: 100%;
+  height: 100px;
+}

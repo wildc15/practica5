@@ -1,0 +1,8 @@
+.empresa__contacto{
+    text-align: right;
+    flex-direction: column;
+  
+}
+.empresa__contacto div {
+    text-align: right; /* Centra el contenido del formulario */
+}

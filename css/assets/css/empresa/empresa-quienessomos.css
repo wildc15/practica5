@@ -1,0 +1,6 @@
+.empresa__quienessomos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    list-style: none;
+}

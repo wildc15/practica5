@@ -1,0 +1,12 @@
+.empresa{
+    text-align: center;
+    margin: auto;
+    justify-content: space-between;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+
+    
+
+}

@@ -1,0 +1,15 @@
+.producto__boton{
+    background-color: transparent;
+    border: none;
+    padding: 1px;
+    cursor: pointer;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    color: #1AAC5D;
+}
+.producto__boton:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}

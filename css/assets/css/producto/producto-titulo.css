@@ -1,0 +1,15 @@
+.producto__titulo{
+    display: flex;
+    font-family:'Raleway', sans-serif;
+    padding-left: 3rem;
+    
+}
+.producto__espacio a{
+    padding-left: 800px;
+    text-decoration: none;
+    color: #1AAC5D;
+}
+.producto__espacio:hover a{
+    cursor: pointer;
+    text-decoration: underline;
+}

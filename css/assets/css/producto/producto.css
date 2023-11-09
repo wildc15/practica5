@@ -1,0 +1,16 @@
+.producto{
+    justify-content: space-between;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 3rem;
+    justify-content: space-between;
+    
+   
+}
+@media screen and (min-width:0) {
+    .producto{
+        margin-right: 1rem;
+        
+    }
+}
